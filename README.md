@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshant2005&label=Profile%20views&color=0e75b6&style=flat" alt="dikshant2005" /> </p>
 
-- 🌱 I’m currently learning **AI , ML , DeepLearning , Python**
+- 🌱 I’m currently learning **AI , ML , DeepLearning , Python ,WebDevelopment**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dikshant2005/](https://www.linkedin.com/in/dikshant2005/)
 
